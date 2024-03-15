@@ -1,0 +1,14 @@
+C:\Users\offic\RiderProjects\C-Sharp-Practice-main\c-Sharp-Practice-Main\bin\Debug\net8.0\c-Sharp-Practice-Main.exe
+C:\Users\offic\RiderProjects\C-Sharp-Practice-main\c-Sharp-Practice-Main\bin\Debug\net8.0\c-Sharp-Practice-Main.deps.json
+C:\Users\offic\RiderProjects\C-Sharp-Practice-main\c-Sharp-Practice-Main\bin\Debug\net8.0\c-Sharp-Practice-Main.runtimeconfig.json
+C:\Users\offic\RiderProjects\C-Sharp-Practice-main\c-Sharp-Practice-Main\bin\Debug\net8.0\c-Sharp-Practice-Main.dll
+C:\Users\offic\RiderProjects\C-Sharp-Practice-main\c-Sharp-Practice-Main\bin\Debug\net8.0\c-Sharp-Practice-Main.pdb
+C:\Users\offic\RiderProjects\C-Sharp-Practice-main\c-Sharp-Practice-Main\obj\Debug\net8.0\c-Sharp-Practice-Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\offic\RiderProjects\C-Sharp-Practice-main\c-Sharp-Practice-Main\obj\Debug\net8.0\c-Sharp-Practice-Main.AssemblyInfoInputs.cache
+C:\Users\offic\RiderProjects\C-Sharp-Practice-main\c-Sharp-Practice-Main\obj\Debug\net8.0\c-Sharp-Practice-Main.AssemblyInfo.cs
+C:\Users\offic\RiderProjects\C-Sharp-Practice-main\c-Sharp-Practice-Main\obj\Debug\net8.0\c-Sharp-Practice-Main.csproj.CoreCompileInputs.cache
+C:\Users\offic\RiderProjects\C-Sharp-Practice-main\c-Sharp-Practice-Main\obj\Debug\net8.0\c-Sharp-Practice-Main.dll
+C:\Users\offic\RiderProjects\C-Sharp-Practice-main\c-Sharp-Practice-Main\obj\Debug\net8.0\refint\c-Sharp-Practice-Main.dll
+C:\Users\offic\RiderProjects\C-Sharp-Practice-main\c-Sharp-Practice-Main\obj\Debug\net8.0\c-Sharp-Practice-Main.pdb
+C:\Users\offic\RiderProjects\C-Sharp-Practice-main\c-Sharp-Practice-Main\obj\Debug\net8.0\c-Sharp-Practice-Main.genruntimeconfig.cache
+C:\Users\offic\RiderProjects\C-Sharp-Practice-main\c-Sharp-Practice-Main\obj\Debug\net8.0\ref\c-Sharp-Practice-Main.dll
